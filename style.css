@@ -1,0 +1,168 @@
+body{
+    font-family: 'Signika Negative', sans-serif;
+    padding: 0;
+    margin: 0 ;    
+}
+
+.h_p{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    padding: 70px;
+    object-fit: cover;
+    text-align: center;
+}
+.h_p h1{
+   font-size: 80px;
+   color: white;
+}
+.h_p p{
+    font-size: 20px;
+    color: white;
+}
+.h_p a {
+    color: white;
+    width: 10%;
+    background: orangered;
+    padding: 9px;
+    text-decoration: none;
+}
+.Donate_Today{
+    margin: 0 auto;
+    padding: 70px;
+    object-fit: cover;
+    text-align: center;
+}
+.Donate_Today h1{
+    font-size: 50px;
+}
+.Donate {
+    text-align: center;
+    display: flex;
+    font-size: 25px;
+    object-fit: cover;
+    text-decoration: none;
+    margin: auto;
+    width: 70%;
+}
+.donate_amount{
+    color: gray;
+    margin: 20px 40px;
+    padding: 25px 40px;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5px;
+    background: #fafafa;
+}
+#d_a{
+    color: tomato;
+    border: 3px solid tomato;
+    margin: 20px 40px;
+    padding: 25px 40px;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5px;
+    background: #fafafa;
+}
+.other-amount{
+    font-size: 18px;
+    color: #B3B3B3;
+    margin-top: 20px;
+    border: none;
+    
+    
+}
+.last_amount{
+    color: white;
+    width: 15%;
+    background: orangered;
+    padding: 9px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.plan_item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 10px;
+}
+#Food_For_Family{
+   
+    background-color: #CDF1EE; 
+    text-align: justify;
+    
+}
+#Donate_Blood{
+    background-color: #F1CDD5; 
+    text-align: justify;
+}
+#buy_clothes{
+    background-color: #F1EECD; 
+    text-align: justify;
+}
+.footer{
+    background-color: black;
+    padding: 20px 80px;
+    width: 100%
+}
+.footer h3{
+    color: tomato;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+.footer h5{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.mail {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background: bisque;
+    width: 482px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.box{
+    padding: 10px;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 10px 5px 5px #F1EECD;
+}
+.box input{
+    font-size: 15px;
+    color: black;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background: #DCDED5;
+
+}
+.mail button {
+    color: white;
+    background: tomato;
+    padding: 22px 32px;
+    border: none;
+    border-radius: 0px 6px 6px 0px;
+    font-size: 20px;
+}
+.half-width{
+    width: 50%;
+    
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    object-fit: cover;
+}
